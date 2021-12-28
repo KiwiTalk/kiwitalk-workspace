@@ -1,0 +1,9 @@
+[submodule "talk-api-client-rs"]
+	path = talk-api-client-rs
+	url = git@github.com:KiwiTalk/talk-api-client-rs.git
+[submodule "talk-loco-client-rs"]
+	path = talk-loco-client-rs
+	url = git@github.com:KiwiTalk/talk-loco-client-rs.git
+[submodule "loco-protocol-rs"]
+	path = loco-protocol-rs
+	url = git@github.com:KiwiTalk/loco-protocol-rs.git

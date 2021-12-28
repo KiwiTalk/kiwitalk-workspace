@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+    "talk-api-client-rs",
+    "talk-loco-client-rs"
+]
+
+[patch.crates-io]
+loco-protocol = { path = "./loco-protocol-rs" }
