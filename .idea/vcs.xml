@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kiwitalk-gtk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kiwitalk-rs" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/loco-protocol-rs" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/talk-api-client-rs" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/talk-loco-client-rs" vcs="Git" />

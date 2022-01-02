@@ -7,3 +7,9 @@
 [submodule "loco-protocol-rs"]
 	path = loco-protocol-rs
 	url = git@github.com:KiwiTalk/loco-protocol-rs.git
+[submodule "kiwitalk-gtk"]
+	path = kiwitalk-gtk
+	url = git@github.com:KiwiTalk/kiwitalk-gtk.git
+[submodule "kiwitalk-rs"]
+	path = kiwitalk-rs
+	url = git@github.com:KiwiTalk/kiwitalk-rs.git

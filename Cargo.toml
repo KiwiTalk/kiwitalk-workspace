@@ -1,9 +1,13 @@
 [workspace]
 
 members = [
+    "loco-protocol-rs",
     "talk-api-client-rs",
-    "talk-loco-client-rs"
+    "talk-loco-client-rs",
+    "kiwitalk-rs"
 ]
 
 [patch.crates-io]
 loco-protocol = { path = "./loco-protocol-rs" }
+talk-loco-client = { path = "./talk-loco-client-rs" }
+talk-api-client = { path = "./talk-api-client-rs" }
