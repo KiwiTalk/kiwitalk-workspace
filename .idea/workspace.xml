@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0137bc17-41ea-463f-9019-abd22d594e50" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kiwitalk-gtk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kiwitalk-rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kiwitalk-gtk-workspace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kiwitalk-gtk-workspace.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loco-protocol-rs" beforeDir="false" afterPath="$PROJECT_DIR$/loco-protocol-rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/talk-api-client-rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-api-client-rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/talk-api-client-rs/examples/auth.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-api-client-rs/examples/auth.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/talk-api-client-rs/src/auth/resources.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-api-client-rs/src/auth/resources.rs" afterDir="false" />
@@ -56,6 +47,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
@@ -79,7 +73,7 @@
       <updated>1641121647154</updated>
       <workItem from="1641121650203" duration="4896000" />
       <workItem from="1641157456821" duration="3983000" />
-      <workItem from="1641161552447" duration="3139000" />
+      <workItem from="1641161552447" duration="3808000" />
     </task>
     <servers />
   </component>
