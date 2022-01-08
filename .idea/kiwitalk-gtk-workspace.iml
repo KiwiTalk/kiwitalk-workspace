@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/talk-api-client-rs/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/talk-loco-client-rs/examples" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/talk-loco-client-rs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/kiwitalk-gtk/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

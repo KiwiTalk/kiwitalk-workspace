@@ -4,7 +4,8 @@ members = [
     "loco-protocol-rs",
     "talk-api-client-rs",
     "talk-loco-client-rs",
-    "kiwitalk-rs"
+    "kiwitalk-rs",
+    "kiwitalk-gtk"
 ]
 
 [patch.crates-io]

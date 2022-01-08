@@ -5,10 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0137bc17-41ea-463f-9019-abd22d594e50" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/kiwitalk-gtk/installdeb.msys2.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kiwitalk-gtk/src/talk.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kiwitalk-rs/src/loco_public_key.pub" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kiwitalk-rs/src/task/login_list.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kiwitalk-rs/src/task/mod.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kiwitalk-rs/src/task/receive.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kiwitalk-rs/src/task/send_ping.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kiwitalk-rs/src/task/task_collect.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kiwitalk-rs/src/task/temporary/checkin.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kiwitalk-rs/src/task/temporary/handler/change_svr.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kiwitalk-rs/src/task/temporary/handler/mod.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kiwitalk-rs/src/task/temporary/mod.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kiwitalk-gtk-workspace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kiwitalk-gtk-workspace.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiwitalk-gtk" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-gtk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiwitalk-gtk/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-gtk/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiwitalk-gtk/src/gui/login.glade" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiwitalk-gtk/src/login.rs" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-gtk/src/login.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiwitalk-gtk/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-gtk/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiwitalk-rs" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiwitalk-rs/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-rs/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiwitalk-rs/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-rs/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loco-protocol-rs" beforeDir="false" afterPath="$PROJECT_DIR$/loco-protocol-rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loco-protocol-rs/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/loco-protocol-rs/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loco-protocol-rs/src/loco_header.rs" beforeDir="false" afterPath="$PROJECT_DIR$/loco-protocol-rs/src/loco_header.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loco-protocol-rs/src/loco_instance.rs" beforeDir="false" afterPath="$PROJECT_DIR$/loco-protocol-rs/src/loco_instance.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loco-protocol-rs/src/secure/secure_stream.rs" beforeDir="false" afterPath="$PROJECT_DIR$/loco-protocol-rs/src/secure/secure_stream.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/talk-api-client-rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-api-client-rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/talk-api-client-rs/examples/auth.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-api-client-rs/examples/auth.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/talk-api-client-rs/src/auth/resources.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-api-client-rs/src/auth/resources.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-client-rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-client-rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-client-rs/examples/checkin.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-client-rs/examples/checkin.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-client-rs/examples/talk.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-client-rs/examples/talk.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-client-rs/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-client-rs/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-client-rs/src/method.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-client-rs/src/method.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-client-rs/src/request/checkin/checkin.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-client-rs/src/request/checkin/checkin.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-client-rs/src/request/ping.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-client-rs/src/request/ping.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-client-rs/src/response/chat/login_list.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-client-rs/src/response/chat/login_list.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +58,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/talk-loco-client-rs" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/kiwitalk-rs" />
+  </component>
+  <component name="KotlinMultiplatform">
+    <allAvailableExecutables />
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="khez6x6m" />
@@ -45,19 +83,112 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../talk-loco-client-rs" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="language.rust.cargo.check" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\djdis\kiwitalk-gtk-workspace\kiwitalk-rs\src\task\temporary" />
       <recent name="C:\Users\djdis\kiwitalk-gtk-workspace\talk-loco-client-rs\src\chat" />
       <recent name="C:\Users\djdis\kiwitalk-gtk-workspace\talk-loco-client-rs\src" />
       <recent name="C:\Users\djdis\kiwitalk-gtk-workspace\talk-loco-client-rs\src\network" />
     </key>
+  </component>
+  <component name="RunManager" selected="Cargo.Test aa">
+    <configuration name="Run kiwitalk-gtk" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="run --package kiwitalk-gtk --bin kiwitalk-gtk" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test aa" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package loco-protocol --test a aa -- --exact" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test handshake_header" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package loco-protocol --test handshake_test handshake_header -- --exact" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test loco_header::aa" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package loco-protocol --lib loco_header::aa -- --exact" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test secure_stream_read_write" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="test --package loco-protocol --test secure_stream_test secure_stream_read_write -- --exact" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo.Test aa" />
+        <item itemvalue="Cargo.Test loco_header::aa" />
+        <item itemvalue="Cargo.Test handshake_header" />
+        <item itemvalue="Cargo.Test secure_stream_read_write" />
+        <item itemvalue="Cargo.Run kiwitalk-gtk" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$PROJECT_DIR$/../.cargo/bin" />
@@ -73,11 +204,39 @@
       <updated>1641121647154</updated>
       <workItem from="1641121650203" duration="4896000" />
       <workItem from="1641157456821" duration="3983000" />
-      <workItem from="1641161552447" duration="3808000" />
+      <workItem from="1641161552447" duration="4449000" />
+      <workItem from="1641240772844" duration="2947000" />
+      <workItem from="1641250808280" duration="1836000" />
+      <workItem from="1641256598778" duration="52000" />
+      <workItem from="1641308115382" duration="61000" />
+      <workItem from="1641308328059" duration="15949000" />
+      <workItem from="1641330985519" duration="3120000" />
+      <workItem from="1641380365323" duration="5570000" />
+      <workItem from="1641387065273" duration="63000" />
+      <workItem from="1641387148296" duration="522000" />
+      <workItem from="1641387915176" duration="1106000" />
+      <workItem from="1641389084126" duration="32266000" />
+      <workItem from="1641426018059" duration="3832000" />
+      <workItem from="1641429949472" duration="436000" />
+      <workItem from="1641430586588" duration="24000" />
+      <workItem from="1641430749063" duration="332000" />
+      <workItem from="1641482795928" duration="783000" />
+      <workItem from="1641487787807" duration="6757000" />
+      <workItem from="1641500579527" duration="73000" />
+      <workItem from="1641500878068" duration="21000" />
+      <workItem from="1641501281436" duration="607000" />
+      <workItem from="1641584823981" duration="2121000" />
+      <workItem from="1641587034174" duration="1413000" />
+      <workItem from="1641588607310" duration="1534000" />
+      <workItem from="1641590678864" duration="29046000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
