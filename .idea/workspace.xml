@@ -5,45 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0137bc17-41ea-463f-9019-abd22d594e50" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kiwitalk-gtk/installdeb.msys2.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kiwitalk-gtk/src/talk.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kiwitalk-rs/src/loco_public_key.pub" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kiwitalk-rs/src/task/login_list.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kiwitalk-rs/src/task/mod.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kiwitalk-rs/src/task/receive.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kiwitalk-rs/src/task/send_ping.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kiwitalk-rs/src/task/task_collect.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kiwitalk-rs/src/task/temporary/checkin.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kiwitalk-rs/src/task/temporary/handler/change_svr.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kiwitalk-rs/src/task/temporary/handler/mod.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kiwitalk-rs/src/task/temporary/mod.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kiwitalk-gtk-workspace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kiwitalk-gtk-workspace.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kiwitalk-gtk" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-gtk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kiwitalk-gtk/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-gtk/Cargo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kiwitalk-gtk/src/gui/login.glade" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kiwitalk-gtk/src/login.rs" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-gtk/src/login.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kiwitalk-gtk/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-gtk/src/main.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kiwitalk-rs" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kiwitalk-rs/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-rs/Cargo.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kiwitalk-rs/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-rs/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiwitalk-rs/src/task/receive.rs" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-rs/src/task/receive.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiwitalk-rs/src/task/send_ping.rs" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-rs/src/task/send_ping.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiwitalk-rs/src/task/task_collect.rs" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-rs/src/task/task_collect.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiwitalk-rs/src/task/temporary/checkin.rs" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-rs/src/task/temporary/checkin.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/loco-protocol-rs" beforeDir="false" afterPath="$PROJECT_DIR$/loco-protocol-rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loco-protocol-rs/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/loco-protocol-rs/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loco-protocol-rs/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/loco-protocol-rs/src/lib.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/loco-protocol-rs/src/loco_header.rs" beforeDir="false" afterPath="$PROJECT_DIR$/loco-protocol-rs/src/loco_header.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/loco-protocol-rs/src/loco_instance.rs" beforeDir="false" afterPath="$PROJECT_DIR$/loco-protocol-rs/src/loco_instance.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loco-protocol-rs/src/secure/secure_stream.rs" beforeDir="false" afterPath="$PROJECT_DIR$/loco-protocol-rs/src/secure/secure_stream.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/talk-api-client-rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-api-client-rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/talk-api-client-rs/src/auth/resources.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-api-client-rs/src/auth/resources.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/talk-loco-client-rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-client-rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/talk-loco-client-rs/examples/checkin.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-client-rs/examples/checkin.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/talk-loco-client-rs/examples/talk.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-client-rs/examples/talk.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/talk-loco-client-rs/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-client-rs/src/lib.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/talk-loco-client-rs/src/method.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-client-rs/src/method.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/talk-loco-client-rs/src/request/checkin/checkin.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-client-rs/src/request/checkin/checkin.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/talk-loco-client-rs/src/request/ping.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-client-rs/src/request/ping.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/talk-loco-client-rs/src/response/chat/login_list.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-client-rs/src/response/chat/login_list.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,8 +58,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowBuild.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../talk-loco-client-rs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../negative-type-bound" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -228,7 +205,35 @@
       <workItem from="1641584823981" duration="2121000" />
       <workItem from="1641587034174" duration="1413000" />
       <workItem from="1641588607310" duration="1534000" />
-      <workItem from="1641590678864" duration="29046000" />
+      <workItem from="1641590678864" duration="29833000" />
+      <workItem from="1641666114098" duration="2918000" />
+      <workItem from="1641761058773" duration="3201000" />
+      <workItem from="1641784316663" duration="195000" />
+      <workItem from="1641788372352" duration="1407000" />
+      <workItem from="1641790379920" duration="147000" />
+      <workItem from="1641791123468" duration="75000" />
+      <workItem from="1641791213620" duration="277000" />
+      <workItem from="1641795348100" duration="1452000" />
+      <workItem from="1641796831278" duration="350000" />
+      <workItem from="1641797267448" duration="187000" />
+      <workItem from="1641818491550" duration="99000" />
+      <workItem from="1641818636416" duration="229000" />
+      <workItem from="1641819251662" duration="42000" />
+      <workItem from="1641819558891" duration="212000" />
+      <workItem from="1641820656335" duration="57000" />
+      <workItem from="1641820830303" duration="67000" />
+      <workItem from="1641820918949" duration="36000" />
+      <workItem from="1641821255957" duration="255000" />
+      <workItem from="1641821600333" duration="197000" />
+      <workItem from="1641821947708" duration="100000" />
+      <workItem from="1641822387164" duration="210000" />
+      <workItem from="1641822944071" duration="141000" />
+      <workItem from="1641823176636" duration="497000" />
+      <workItem from="1641823910456" duration="676000" />
+      <workItem from="1641825574048" duration="212000" />
+      <workItem from="1641825899161" duration="1385000" />
+      <workItem from="1641986199838" duration="1614000" />
+      <workItem from="1641987902743" duration="387000" />
     </task>
     <servers />
   </component>
