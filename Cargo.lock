@@ -602,8 +602,7 @@ dependencies = [
 [[package]]
 name = "glade-bindgen"
 version = "1.2.1"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "4454fb683a083bd753bd00a8ecf83ce11fe2f986325a340ebca680bc71a1598d"
+source = "git+https://github.com/djdisodo/glade-bindgen.git#92e4875b921731af5cb712292271b5dfb7aad348"
 dependencies = [
  "convert_case",
  "lazy_static",
@@ -935,16 +934,19 @@ dependencies = [
  "base64",
  "directories",
  "email_address",
+ "futures",
  "gio",
  "glade-bindgen",
  "gtk",
  "kiwitalk",
  "lazy_static",
  "log",
+ "rand",
  "serde",
  "serde_yaml",
  "simple_logger",
  "talk-api-client",
+ "talk-loco-client",
  "thiserror",
  "tokio",
  "uuid",
@@ -1834,6 +1836,7 @@ dependencies = [
  "serde",
  "serde_repr",
  "sha2",
+ "talk-loco-client",
  "tokio",
 ]
 

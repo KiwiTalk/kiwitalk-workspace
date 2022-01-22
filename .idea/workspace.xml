@@ -5,21 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0137bc17-41ea-463f-9019-abd22d594e50" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/kiwitalk-gtk/src/component/author.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kiwitalk-gtk/src/component/channel.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kiwitalk-gtk/src/component/message.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kiwitalk-gtk/src/event_handler/chat_list_update.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kiwitalk-gtk/src/event_handler/message.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kiwitalk-gtk/src/event_handler/mod.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kiwitalk-rs/src/task/temporary/handler/msg.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/talk-loco-client-rs/src/structs/ids.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiwitalk-gtk" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-gtk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiwitalk-gtk/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-gtk/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiwitalk-gtk/src/component/channel_entry.rs" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-gtk/src/component/channel_entry.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiwitalk-gtk/src/component/mod.rs" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-gtk/src/component/mod.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiwitalk-gtk/src/gui/channel_entry.ui" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-gtk/src/gui/channel_entry.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiwitalk-gtk/src/gui/main.ui" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-gtk/src/gui/main.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiwitalk-gtk/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-gtk/src/main.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kiwitalk-rs" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kiwitalk-rs/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-rs/Cargo.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kiwitalk-rs/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-rs/src/lib.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kiwitalk-rs/src/task/receive.rs" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-rs/src/task/receive.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kiwitalk-rs/src/task/send_ping.rs" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-rs/src/task/send_ping.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kiwitalk-rs/src/task/task_collect.rs" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-rs/src/task/task_collect.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kiwitalk-rs/src/task/temporary/checkin.rs" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-rs/src/task/temporary/checkin.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiwitalk-rs/src/task/temporary/handler/change_svr.rs" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-rs/src/task/temporary/handler/change_svr.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kiwitalk-rs/src/task/temporary/handler/mod.rs" beforeDir="false" afterPath="$PROJECT_DIR$/kiwitalk-rs/src/task/temporary/handler/mod.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/loco-protocol-rs" beforeDir="false" afterPath="$PROJECT_DIR$/loco-protocol-rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loco-protocol-rs/src/encoded_method.rs" beforeDir="false" afterPath="$PROJECT_DIR$/loco-protocol-rs/src/encoded_method.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/loco-protocol-rs/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/loco-protocol-rs/src/lib.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/loco-protocol-rs/src/loco_header.rs" beforeDir="false" afterPath="$PROJECT_DIR$/loco-protocol-rs/src/loco_header.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/loco-protocol-rs/src/loco_instance.rs" beforeDir="false" afterPath="$PROJECT_DIR$/loco-protocol-rs/src/loco_instance.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-api-client-rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-api-client-rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-api-client-rs/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/talk-api-client-rs/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-api-client-rs/src/auth/resources.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-api-client-rs/src/auth/resources.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/talk-loco-client-rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-client-rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/talk-loco-client-rs/src/request/ping.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-client-rs/src/request/ping.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-client-rs/src/method.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-client-rs/src/method.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-client-rs/src/request/chat/chat_info.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-client-rs/src/request/chat/chat_info.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-client-rs/src/request/chat/get_mem.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-client-rs/src/request/chat/get_mem.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-client-rs/src/request/chat/member.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-client-rs/src/request/chat/member.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-client-rs/src/request/checkin/checkin.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-client-rs/src/request/checkin/checkin.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-client-rs/src/response/chat/msg.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-client-rs/src/response/chat/msg.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-client-rs/src/structs/channel_info.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-client-rs/src/structs/channel_info.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-client-rs/src/structs/chat.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-client-rs/src/structs/chat.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-client-rs/src/structs/mod.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-client-rs/src/structs/mod.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-client-rs/src/structs/openlink.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-client-rs/src/structs/openlink.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/talk-loco-client-rs/src/structs/user.rs" beforeDir="false" afterPath="$PROJECT_DIR$/talk-loco-client-rs/src/structs/user.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +60,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/kiwitalk-rs" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/kiwitalk-gtk" />
   </component>
   <component name="KotlinMultiplatform">
     <allAvailableExecutables />
@@ -76,7 +102,7 @@
       <recent name="C:\Users\djdis\kiwitalk-gtk-workspace\talk-loco-client-rs\src\network" />
     </key>
   </component>
-  <component name="RunManager" selected="Cargo.Test aa">
+  <component name="RunManager" selected="Cargo.Run kiwitalk-gtk">
     <configuration name="Run kiwitalk-gtk" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
       <option name="command" value="run --package kiwitalk-gtk --bin kiwitalk-gtk" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$" />
@@ -159,16 +185,16 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cargo.Run kiwitalk-gtk" />
         <item itemvalue="Cargo.Test aa" />
         <item itemvalue="Cargo.Test loco_header::aa" />
         <item itemvalue="Cargo.Test handshake_header" />
         <item itemvalue="Cargo.Test secure_stream_read_write" />
-        <item itemvalue="Cargo.Run kiwitalk-gtk" />
       </list>
     </recent_temporary>
   </component>
   <component name="RustProjectSettings">
-    <option name="toolchainHomeDirectory" value="$PROJECT_DIR$/../.cargo/bin" />
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
     <option name="version" value="2" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -234,6 +260,10 @@
       <workItem from="1641825899161" duration="1385000" />
       <workItem from="1641986199838" duration="1614000" />
       <workItem from="1641987902743" duration="387000" />
+      <workItem from="1642597281125" duration="1794000" />
+      <workItem from="1642602166121" duration="6413000" />
+      <workItem from="1642637573660" duration="4904000" />
+      <workItem from="1642731056833" duration="33615000" />
     </task>
     <servers />
   </component>
